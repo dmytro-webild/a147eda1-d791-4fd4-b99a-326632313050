@@ -29,7 +29,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-flowers-mirror_23-2148879007.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/spray-bottle-blue-hair_23-2152001435.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H9qby8SalGK2F1HraxFX3CLIXR/uploaded-1785294543437-pbtt09iu.jpg",
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/mirror-vases-background-zoom-calls_23-2149684461.jpg",
