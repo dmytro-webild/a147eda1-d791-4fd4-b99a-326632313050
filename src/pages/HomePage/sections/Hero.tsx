@@ -10,7 +10,7 @@ export default function HeroSection(): React.JSX.Element {
     <div id="hero" data-section="hero">
         <SectionErrorBoundary name="hero">
               <HeroBillboardCarousel
-          tag="Tu momento de calma"
+          tag=""
           title="Belleza y Bienestar en Armonía"
           description="Descubre nuestros tratamientos estéticos exclusivos diseñados para resaltar tu belleza natural con la máxima serenidad."
           primaryButton={{
