@@ -38,7 +38,7 @@ export default function HeroSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/elements-relaxing-massage-spa_23-2148176934.jpg",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/minimal-amazing-interior-design_23-2150534609.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H9qby8SalGK2F1HraxFX3CLIXR/uploaded-1785294264785-pdruytti.jpg",
             },
           ]}
           textAnimation="fade-blur"
