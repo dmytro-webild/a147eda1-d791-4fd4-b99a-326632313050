@@ -42,7 +42,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloating
-      logo="Estética Luxe"
+      logo="cmybeauty"
       ctaButton={{
         text: "Reserva",
         href: "#contact",
@@ -54,7 +54,7 @@ export default function Layout() {
       </main>
       <SectionErrorBoundary name="footer">
         <FooterSimple
-      brand="Estética Luxe"
+      brand="cmybeauty"
       columns={[
         {
           title: "Navegación",
@@ -87,7 +87,7 @@ export default function Layout() {
           ],
         },
       ]}
-      copyright="© 2024 Estética Luxe. Todos los derechos reservados."
+      copyright="© 2024 cmybeauty. Todos los derechos reservados."
       links={[
         {
           label: "Instagram",
