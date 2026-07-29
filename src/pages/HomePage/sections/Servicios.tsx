@@ -11,7 +11,7 @@ export default function ServiciosSection(): React.JSX.Element {
         <SectionErrorBoundary name="servicios">
               <FeaturesDetailedSteps
           tag="Nuestra Metodología"
-          title="Pasos hacia tu mejor versión"
+          title="cm"
           description="Seguimos un proceso cuidadoso para asegurar resultados visibles y duraderos."
           steps={[
             {
