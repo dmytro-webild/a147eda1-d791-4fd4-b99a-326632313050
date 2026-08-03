@@ -14,7 +14,7 @@ export default function ContactSection(): React.JSX.Element {
           text="¿Lista para comenzar tu transformación?"
           primaryButton={{
             text: "WhatsApp",
-            href: "https://wa.me/1234567890",
+            href: "https://www.vagaro.com/cmybeauty",
           }}
           secondaryButton={{
             text: "Email",
